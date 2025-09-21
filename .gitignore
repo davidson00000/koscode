@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+artifacts/
+workspace/
+.venv/
+__pycache__/
+artifacts/
+workspace/
+.venv/
+__pycache__/
+artifacts/
+workspace/__pycache__/
+

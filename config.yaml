@@ -1,0 +1,10 @@
+planner:
+  model: llama3.2:3b-instruct-q4_K_M
+  temperature: 0.2
+  max_tokens: 2048
+coder:
+  model: qwen2.5-coder:7b-instruct-q4_K_M
+  temperature: 0.1
+  max_tokens: 4096
+workspace: ./workspace
+artifacts: ./artifacts

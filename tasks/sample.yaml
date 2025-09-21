@@ -1,0 +1,3 @@
+goal: "app.py に main() を作成し、pytest で 'ok' を返すことを確認する"
+constraints: "差分は小さく、unified diff 形式で出力（説明文は出力しない）"
+acceptance: "workspace/ で pytest -q が成功すること"
